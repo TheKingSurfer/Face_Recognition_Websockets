@@ -1,0 +1,251 @@
+2023-12-11 20:44:03,783 [INFO]: Server started.
+2023-12-11 20:44:03,792 [INFO]: server listening on [::1]:8765
+2023-12-11 20:44:03,792 [INFO]: server listening on 127.0.0.1:8765
+2023-12-11 20:44:09,268 [INFO]: connection open
+2023-12-11 20:44:09,268 [INFO]: Client connected.
+2023-12-11 20:44:13,345 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:13,772 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:14,194 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:14,660 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:15,146 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:15,525 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:15,904 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:16,281 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:16,663 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:17,066 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:17,428 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:17,834 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:18,272 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:18,745 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:19,176 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:44:19,264 [INFO]: connection open
+2023-12-11 20:44:19,265 [INFO]: Client connected.
+2023-12-11 20:44:22,298 [INFO]: connection closed
+2023-12-11 20:44:22,299 [INFO]: connection closed
+2023-12-11 20:49:49,098 [INFO]: Server started.
+2023-12-11 20:49:49,107 [INFO]: server listening on [::1]:8865
+2023-12-11 20:49:49,107 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 20:49:57,314 [INFO]: connection open
+2023-12-11 20:49:57,315 [INFO]: Client connected.
+2023-12-11 20:50:01,186 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:01,573 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:02,007 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:02,390 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:02,767 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:03,271 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:03,718 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:04,136 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:04,533 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:04,928 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:05,336 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:05,826 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:06,194 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:50:06,573 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:38,890 [INFO]: Server started.
+2023-12-11 20:56:38,902 [INFO]: server listening on [::1]:8865
+2023-12-11 20:56:38,902 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 20:56:43,757 [INFO]: connection open
+2023-12-11 20:56:43,757 [INFO]: Client connected.
+2023-12-11 20:56:47,349 [INFO]: connection open
+2023-12-11 20:56:47,350 [INFO]: Client connected.
+2023-12-11 20:56:50,416 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:50,813 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:51,228 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:51,612 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:52,036 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:52,433 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:52,939 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:53,339 [INFO]: connection closed
+2023-12-11 20:56:54,028 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:54,678 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:55,084 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:55,456 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:55,845 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:56,254 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:56,640 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:57,033 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:57,423 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:57,811 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:58,255 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:58,694 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:59,169 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:59,561 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:56:59,980 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:00,546 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:01,002 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:01,384 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:01,810 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:02,303 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:02,885 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:03,313 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:03,717 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:04,134 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:04,571 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:04,991 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:05,408 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:05,804 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:06,283 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:06,687 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:07,114 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:07,501 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:07,933 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:08,383 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:08,801 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:09,204 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:09,637 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:10,034 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:10,627 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:11,037 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:11,432 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:11,847 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:12,240 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:12,703 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:13,156 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:13,636 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:14,030 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:57:14,437 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:38,914 [INFO]: Server started.
+2023-12-11 20:58:38,923 [INFO]: server listening on [::1]:8865
+2023-12-11 20:58:38,923 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 20:58:47,083 [INFO]: connection open
+2023-12-11 20:58:47,085 [INFO]: Client connected.
+2023-12-11 20:58:51,699 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:52,079 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:52,480 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:52,900 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:53,419 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:53,837 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:54,243 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:54,664 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:55,113 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:55,558 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:55,971 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:56,421 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 20:58:56,827 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:01:20,601 [INFO]: Server started.
+2023-12-11 21:01:20,610 [INFO]: server listening on [::1]:8865
+2023-12-11 21:01:20,610 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:02:10,686 [INFO]: Server started.
+2023-12-11 21:02:10,699 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:02:10,700 [INFO]: server listening on [::1]:8865
+2023-12-11 21:02:18,847 [INFO]: connection open
+2023-12-11 21:02:18,847 [INFO]: Client connected.
+2023-12-11 21:02:22,449 [INFO]: connection open
+2023-12-11 21:02:22,450 [INFO]: Client connected.
+2023-12-11 21:02:25,721 [INFO]: connection closed
+2023-12-11 21:02:36,448 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:41,057 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:43,609 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:54,224 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:54,626 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:55,051 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:55,811 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:56,315 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:56,939 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:57,355 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:57,888 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:58,217 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:58,641 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:59,220 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:02:59,771 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:03:00,220 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:03:00,667 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:03:01,117 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:03:01,564 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:03:01,972 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:03:02,387 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:03:02,847 [ERROR]: Error processing frame: attempt to get argmin of an empty sequence
+2023-12-11 21:04:02,759 [INFO]: Server started.
+2023-12-11 21:04:02,767 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:04:02,768 [INFO]: server listening on [::1]:8865
+2023-12-11 21:04:18,970 [INFO]: connection open
+2023-12-11 21:04:18,970 [INFO]: Client connected.
+2023-12-11 21:04:22,605 [INFO]: connection open
+2023-12-11 21:04:22,605 [INFO]: Client connected.
+2023-12-11 21:04:25,668 [INFO]: connection closed
+2023-12-11 21:04:46,046 [INFO]: Detected face: billgates
+2023-12-11 21:04:46,415 [INFO]: Detected face: billgates
+2023-12-11 21:04:46,777 [INFO]: Detected face: billgates
+2023-12-11 21:04:49,703 [ERROR]: Error processing frame: no close frame received or sent
+2023-12-11 21:04:50,024 [INFO]: connection closed
+2023-12-11 21:05:27,859 [INFO]: Server started.
+2023-12-11 21:05:27,868 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:05:27,868 [INFO]: server listening on [::1]:8865
+2023-12-11 21:05:33,161 [INFO]: connection open
+2023-12-11 21:05:33,161 [INFO]: Client connected.
+2023-12-11 21:05:37,694 [INFO]: connection open
+2023-12-11 21:05:37,694 [INFO]: Client connected.
+2023-12-11 21:05:40,895 [INFO]: connection closed
+2023-12-11 21:05:48,938 [INFO]: Detected face: images
+2023-12-11 21:05:49,413 [INFO]: Detected face: billgates
+2023-12-11 21:05:54,143 [ERROR]: Error processing frame: no close frame received or sent
+2023-12-11 21:05:54,468 [INFO]: connection closed
+2023-12-11 21:07:42,157 [INFO]: Server started.
+2023-12-11 21:07:42,164 [INFO]: server listening on [::1]:8865
+2023-12-11 21:07:42,164 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:08:02,339 [INFO]: Server started.
+2023-12-11 21:08:02,347 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:08:02,347 [INFO]: server listening on [::1]:8865
+2023-12-11 21:10:30,904 [INFO]: Server started.
+2023-12-11 21:10:30,913 [INFO]: server listening on [::1]:8865
+2023-12-11 21:10:30,914 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:12:33,578 [INFO]: Server started.
+2023-12-11 21:12:33,587 [INFO]: server listening on [::1]:8865
+2023-12-11 21:12:33,587 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:14:54,622 [INFO]: Server started.
+2023-12-11 21:14:54,632 [INFO]: server listening on [::1]:8865
+2023-12-11 21:14:54,633 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:15:32,891 [INFO]: Server started.
+2023-12-11 21:15:32,901 [INFO]: server listening on [::1]:8865
+2023-12-11 21:15:32,901 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:15:54,748 [INFO]: Server started.
+2023-12-11 21:15:54,756 [INFO]: server listening on [::1]:8865
+2023-12-11 21:15:54,756 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:17:29,700 [INFO]: Server started.
+2023-12-11 21:17:29,715 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:17:29,715 [INFO]: server listening on [::1]:8865
+2023-12-11 21:19:45,747 [INFO]: Server started.
+2023-12-11 21:19:45,756 [INFO]: server listening on [::1]:8865
+2023-12-11 21:19:45,756 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:20:15,184 [INFO]: Server started.
+2023-12-11 21:20:15,191 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:20:15,192 [INFO]: server listening on [::1]:8865
+2023-12-11 21:20:43,356 [INFO]: Server started.
+2023-12-11 21:20:43,365 [INFO]: server listening on [::1]:8865
+2023-12-11 21:20:43,365 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:21:20,985 [INFO]: Server started.
+2023-12-11 21:21:20,993 [INFO]: server listening on [::1]:8865
+2023-12-11 21:21:20,993 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:23:14,669 [INFO]: Server started.
+2023-12-11 21:23:14,677 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:23:14,677 [INFO]: server listening on [::1]:8865
+2023-12-11 21:25:48,015 [INFO]: Server started.
+2023-12-11 21:25:48,026 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:25:48,027 [INFO]: server listening on [::1]:8865
+2023-12-11 21:29:30,948 [INFO]: Server started.
+2023-12-11 21:29:30,956 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:29:30,956 [INFO]: server listening on [::1]:8865
+2023-12-11 21:30:57,548 [INFO]: Server started.
+2023-12-11 21:30:57,568 [INFO]: server listening on [::1]:8865
+2023-12-11 21:30:57,569 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:32:47,660 [INFO]: Server started.
+2023-12-11 21:32:47,667 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 21:32:47,667 [INFO]: server listening on [::1]:8865
+2023-12-11 21:33:09,333 [INFO]: connection open
+2023-12-11 21:33:09,333 [INFO]: Client connected.
+2023-12-11 21:33:12,823 [INFO]: connection open
+2023-12-11 21:33:12,824 [INFO]: Client connected.
+2023-12-11 21:33:20,302 [INFO]: connection closed
+2023-12-11 21:33:27,218 [INFO]: Detected face: images
+2023-12-11 21:33:27,615 [INFO]: Detected face: billgates
+2023-12-11 21:33:28,523 [INFO]: Detected face: billgates
+2023-12-11 21:33:31,863 [ERROR]: Error processing frame: no close frame received or sent
+2023-12-11 21:33:32,201 [INFO]: connection closed
+2023-12-11 21:33:41,530 [INFO]: connection open
+2023-12-11 21:33:41,530 [INFO]: Client connected.
+2023-12-11 21:33:45,615 [INFO]: connection open
+2023-12-11 21:33:45,615 [INFO]: Client connected.
+2023-12-11 21:33:51,363 [INFO]: connection closed
+2023-12-11 21:33:55,813 [INFO]: Detected face: images
+2023-12-11 21:34:00,055 [ERROR]: Error processing frame: no close frame received or sent
+2023-12-11 21:34:00,387 [INFO]: connection closed

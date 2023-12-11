@@ -1,0 +1,25 @@
+2023-12-11 20:45:41,933 [INFO]: Server started.
+2023-12-11 20:45:41,941 [INFO]: server listening on 127.0.0.1:8865
+2023-12-11 20:45:41,941 [INFO]: server listening on [::1]:8865
+2023-12-11 20:45:49,977 [INFO]: connection open
+2023-12-11 20:45:49,978 [INFO]: Client connected.
+2023-12-11 20:45:54,888 [INFO]: connection open
+2023-12-11 20:45:54,888 [INFO]: Client connected.
+2023-12-11 20:46:03,514 [INFO]: connection closed
+2023-12-11 20:46:12,983 [INFO]: Detected face: billgates
+2023-12-11 20:46:13,442 [INFO]: Detected face: billgates
+2023-12-11 20:46:13,870 [INFO]: Detected face: billgates
+2023-12-11 20:46:14,254 [INFO]: Detected face: billgates
+2023-12-11 20:46:17,583 [ERROR]: Error processing frame: no close frame received or sent
+2023-12-11 20:46:17,910 [INFO]: connection closed
+2023-12-11 20:46:37,307 [INFO]: connection open
+2023-12-11 20:46:37,307 [INFO]: Client connected.
+2023-12-11 20:46:41,298 [INFO]: connection open
+2023-12-11 20:46:41,298 [INFO]: Client connected.
+2023-12-11 20:46:44,193 [INFO]: connection closed
+2023-12-11 20:46:45,193 [INFO]: Detected face: billgates
+2023-12-11 20:46:45,603 [INFO]: Detected face: billgates
+2023-12-11 20:46:45,980 [INFO]: Detected face: billgates
+2023-12-11 20:46:46,459 [INFO]: Detected face: billgates
+2023-12-11 20:46:50,351 [ERROR]: Error processing frame: no close frame received or sent
+2023-12-11 20:46:50,697 [INFO]: connection closed
